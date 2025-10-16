@@ -1,0 +1,10 @@
+{
+    "battery_capacity_kwh": 7.0,
+    "battery_efficiency": 0.9,
+    "max_charge_rate_kw": 5.0,
+    "max_discharge_rate_kw": 5.0,
+    "battery_cost_twd": 50000.0,
+    "battery_lifetime_years": 10,
+    "annual_maintenance_pct": 0.02,
+    "discount_rate": 0.05
+}

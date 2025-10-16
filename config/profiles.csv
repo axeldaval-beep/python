@@ -1,0 +1,183 @@
+﻿Contract,Type,Option,Charge,Capacity contract,Capacity category,Day type,Peak period,Season,Start Time,End Time,Unit,Price
+1-包燈電價,Non-TOU,Lighting,Demand,Maximum,Lighting,,,,23:00,7:00,per lamp,131.43
+1-包燈電價,Non-TOU,Lighting,Demand,Maximum,Lighting,,,,0:00,0:00,per lamp,262.86
+1-包燈電價,Non-TOU,Lighting,Demand,Maximum,Lighting,,,,23:00,7:00,per lamp,106.02
+1-包燈電價,Non-TOU,Lighting,Demand,Maximum,Lighting,,,,0:00,0:00,per lamp,212.04
+1-包燈電價,Non-TOU,Lighting,Demand,Maximum,Lighting,,,,23:00,7:00,per Watt,1
+1-包燈電價,Non-TOU,Lighting,Demand,Maximum,Lighting,,,,0:00,0:00,per Watt,2
+2-包用電力電價,Non-TOU,Appliance,Demand,Maximum,Appliance,,,,23:00,7:00,per appliance,57.775
+2-包用電力電價,Non-TOU,Appliance,Demand,Maximum,Appliance,,,,0:00,0:00,per appliance,115.55
+2-包用電力電價,Non-TOU,Appliance,Demand,Maximum,Appliance,,,,23:00,7:00,per appliance,38.645
+2-包用電力電價,Non-TOU,Appliance,Demand,Maximum,Appliance,,,,0:00,0:00,per appliance,77.29
+2-包用電力電價,Non-TOU,Appliance,Demand,Maximum,Appliance,,,,0:00,0:00,per lamp,685.77
+2-包用電力電價,Non-TOU,Appliance,Demand,Maximum,Appliance,,,,0:00,0:00,per Watt,1.92
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,0 to 330kWh,,,Summer,0,330,per kWh,2.61
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,0 to 330kWh,,,Non-Summer,0,330,per kWh,2.18
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,331 to 700kWh,,,Summer,331,700,per kWh,3.66
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,331 to 700kWh,,,Non-Summer,331,700,per kWh,3
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,701 to 1500kWh,,,Summer,701,1500,per kWh,4.46
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,701 to 1500kWh,,,Non-Summer,701,1500,per kWh,3.61
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,1501 to 3000kWh,,,Summer,1501,3000,per kWh,7.08
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,1501 to 3000kWh,,,Non-Summer,1501,3000,per kWh,5.56
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,3001kWh and above,,,Summer,3001,,per kWh,7.43
+3-表燈(住商)電價,Non-TOU,Commercial,Demand,Maximum,3001kWh and above,,,Non-Summer,3001,,per kWh,5.83
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,0 to 120kWh,,,Summer,0,120,per kWh,1.68
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,0 to 120kWh,,,Non-Summer,0,120,per kWh,1.68
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,121 to 330kWh,,,Summer,121,330,per kWh,2.45
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,121 to 330kWh,,,Non-Summer,121,330,per kWh,2.16
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,331 to 500kWh,,,Summer,331,500,per kWh,3.7
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,331 to 500kWh,,,Non-Summer,331,500,per kWh,3.03
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,501 to 700kWh,,,Summer,501,700,per kWh,5.04
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,501 to 700kWh,,,Non-Summer,501,700,per kWh,4.14
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,701 to 1000kWh,,,Summer,701,1000,per kWh,6.24
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,701 to 1000kWh,,,Non-Summer,701,1000,per kWh,5.07
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,1001kWh and above,,,Summer,1001,,per kWh,8.46
+3-表燈(住商)電價,Non-TOU,Non-resi./comm.,Demand,Maximum,1001kWh and above,,,Non-Summer,1001,,per kWh,6.63
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,0 to 120kWh,,,Summer,0,120,per kWh,1.68
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,0 to 120kWh,,,Non-Summer,0,120,per kWh,1.68
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,121 to 330kWh,,,Summer,121,330,per kWh,2.45
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,121 to 330kWh,,,Non-Summer,121,330,per kWh,2.16
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,331 to 500kWh,,,Summer,331,500,per kWh,3.7
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,331 to 500kWh,,,Non-Summer,331,500,per kWh,3.03
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,501 to 700kWh,,,Summer,501,700,per kWh,5.04
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,501 to 700kWh,,,Non-Summer,501,700,per kWh,4.14
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,701 to 1000kWh,,,Summer,701,1000,per kWh,6.24
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,701 to 1000kWh,,,Non-Summer,701,1000,per kWh,5.07
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,1001kWh and above,,,Summer,1001,,per kWh,8.46
+3-表燈(住商)電價,Non-TOU,Residential,Demand,Maximum,1001kWh and above,,,Non-Summer,1001,,per kWh,6.63
+3-表燈(住商)電價,TOU,1,Customer,Maximum,Flate rate,,,All Year,,,per customer,75
+3-表燈(住商)電價,TOU,1,Energy,,Excess (>2000kWh),,,All Year,,,per kWh,1.02
+3-表燈(住商)電價,TOU,1,Energy,,,Weekday,Peak,Summer,0.38,0,per kWh,5.01
+3-表燈(住商)電價,TOU,1,Energy,,,Weekday,Peak,Non-Summer,0.25,0.46,per kWh,4.78
+3-表燈(住商)電價,TOU,1,Energy,,,Weekday,Peak,Non-Summer,0.58,0,per kWh,4.78
+3-表燈(住商)電價,TOU,1,Energy,,,Weekday,Off-Peak,Summer,0,0.38,per kWh,1.96
+3-表燈(住商)電價,TOU,1,Energy,,,Weekday,Off-Peak,Non-Summer,0,0.25,per kWh,1.89
+3-表燈(住商)電價,TOU,1,Energy,,,Weekday,Off-Peak,Non-Summer,0.46,0.58,per kWh,1.89
+3-表燈(住商)電價,TOU,1,Energy,,,Weekend & Off-Peak Day,Off-Peak,Summer,0,0,per kWh,1.96
+3-表燈(住商)電價,TOU,1,Energy,,,Weekend & Off-Peak Day,Off-Peak,Non-Summer,0,0,per kWh,1.89
+3-表燈(住商)電價,TOU,2,Customer,Maximum,Flate rate,,,All Year,,,per customer,75
+3-表燈(住商)電價,TOU,2,Energy,,Excess (>2000kWh),,,All Year,,,per kWh,1.02
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Peak,Summer,0.67,0.92,per kWh,6.92
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Partial-Peak,Summer,0.38,0.67,per kWh,4.54
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Partial-Peak,Summer,0.92,0,per kWh,4.54
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Peak,Non-Summer,0.25,0.46,per kWh,4.33
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Peak,Non-Summer,0.58,0,per kWh,4.33
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Off-Peak,Summer,0,0.38,per kWh,1.96
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Off-Peak,Non-Summer,0,0.25,per kWh,1.89
+3-表燈(住商)電價,TOU,2,Energy,,,Weekday,Off-Peak,Non-Summer,0.46,0.58,per kWh,1.89
+3-表燈(住商)電價,TOU,2,Energy,,,Weekend & Off-Peak Day,Off-Peak,Summer,0,0,per kWh,1.96
+3-表燈(住商)電價,TOU,2,Energy,,,Weekend & Off-Peak Day,Off-Peak,Non-Summer,0,0,per kWh,1.89
+3-表燈(住商)電價,TOU,3,Customer,Maximum,Single Phase,,,All Year,,,per customer,129.1
+3-表燈(住商)電價,TOU,3,Customer,Maximum,Three Phase,,,All Year,,,per customer,262.5
+3-表燈(住商)電價,TOU,3,Demand,Maximum,Regular Contracted Demand,,,Summer,,,per kW,236.2
+3-表燈(住商)電價,TOU,3,Demand,Maximum,Regular Contracted Demand,,,Non-Summer,,,per kW,173.2
+3-表燈(住商)電價,TOU,3,Demand,Maximum,Non-Summer Contracted Demand,,,Non-Summer,,,per kW,173.2
+3-表燈(住商)電價,TOU,3,Demand,Maximum,Saturday Partial-Peak Contracted,,,Summer,,,per kW,47.2
+3-表燈(住商)電價,TOU,3,Demand,Maximum,Saturday Partial-Peak Contracted,,,Non-Summer,,,per kW,34.6
+3-表燈(住商)電價,TOU,3,Demand,Maximum,Off-Peak Period Contracted Demand,,,Summer,,,per kW,47.2
+3-表燈(住商)電價,TOU,3,Demand,Maximum,Off-Peak Period Contracted Demand,,,Non-Summer,,,per kW,34.6
+3-表燈(住商)電價,TOU,3,Energy,,,Weekday,Peak,Summer,0.38,1,per kWh,5.54
+3-表燈(住商)電價,TOU,3,Energy,,,Weekday,Peak,Non-Summer,0.25,0.46,per kWh,5.39
+3-表燈(住商)電價,TOU,3,Energy,,,Weekday,Peak,Non-Summer,0.58,1,per kWh,5.39
+3-表燈(住商)電價,TOU,3,Energy,,,Weekday,Off-Peak,Summer,0,0.38,per kWh,2.27
+3-表燈(住商)電價,TOU,3,Energy,,,Weekday,Off-Peak,Non-Summer,0,0.25,per kWh,2.15
+3-表燈(住商)電價,TOU,3,Energy,,,Weekday,Off-Peak,Non-Summer,0.46,0.58,per kWh,2.15
+3-表燈(住商)電價,TOU,3,Energy,,,Saturday,Partial-Peak,Summer,0.38,1,per kWh,2.76
+3-表燈(住商)電價,TOU,3,Energy,,,Saturday,Partial-Peak,Non-Summer,0.25,0.46,per kWh,2.65
+3-表燈(住商)電價,TOU,3,Energy,,,Saturday,Partial-Peak,Non-Summer,0.58,1,per kWh,2.65
+3-表燈(住商)電價,TOU,3,Energy,,,Saturday,Off-Peak,Summer,0,0.38,per kWh,2.27
+3-表燈(住商)電價,TOU,3,Energy,,,Saturday,Off-Peak,Non-Summer,0,0.25,per kWh,2.15
+3-表燈(住商)電價,TOU,3,Energy,,,Saturday,Off-Peak,Non-Summer,0.46,0.58,per kWh,2.15
+3-表燈(住商)電價,TOU,3,Energy,,,Sunday & Off-Peak Day,Off-Peak,Summer,0,1,per kWh,2.27
+3-表燈(住商)電價,TOU,3,Energy,,,Sunday & Off-Peak Day,Off-Peak,Non-Summer,0,1,per kWh,2.15
+3-表燈(住商)電價,TOU,4,Customer,Maximum,Single Phase,,,All Year,,,per customer,129.1
+3-表燈(住商)電價,TOU,4,Customer,Maximum,Three Phase,,,All Year,,,per customer,262.5
+3-表燈(住商)電價,TOU,4,Demand,Maximum,Regular Contracted Demand,,,Summer,,,per kW,236.2
+3-表燈(住商)電價,TOU,4,Demand,Maximum,Regular Contracted Demand,,,Non-Summer,,,per kW,173.2
+3-表燈(住商)電價,TOU,4,Demand,Maximum,Partial-Peak Period Contracted,,,All Year,,,per kW,173.2
+3-表燈(住商)電價,TOU,4,Demand,Maximum,Saturday Partial-Peak Contracted,,,Summer,,,per kW,47.2
+3-表燈(住商)電價,TOU,4,Demand,Maximum,Saturday Partial-Peak Contracted,,,Non-Summer,,,per kW,34.6
+3-表燈(住商)電價,TOU,4,Demand,Maximum,Off-Peak Period Contracted Demand,,,Summer,,,per kW,47.2
+3-表燈(住商)電價,TOU,4,Demand,Maximum,Off-Peak Period Contracted Demand,,,Non-Summer,,,per kW,34.6
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Peak,Summer,16:00,22:00,per kWh,8.12
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Partial-Peak,Summer,9:00,16:00,per kWh,5.02
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Partial-Peak,Summer,22:00,0:00,per kWh,5.02
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Peak,Non-Summer,6:00,11:00,per kWh,4.86
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Peak,Non-Summer,14:00,0:00,per kWh,4.86
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Off-Peak,Summer,0:00,9:00,per kWh,2.23
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Off-Peak,Non-Summer,0:00,6:00,per kWh,2.12
+3-表燈(住商)電價,TOU,4,Energy,,,Weekday,Off-Peak,Non-Summer,11:00,14:00,per kWh,2.12
+3-表燈(住商)電價,TOU,4,Energy,,,Saturday,Partial-Peak,Summer,9:00,0:00,per kWh,2.5
+3-表燈(住商)電價,TOU,4,Energy,,,Saturday,Partial-Peak,Non-Summer,6:00,11:00,per kWh,2.4
+3-表燈(住商)電價,TOU,4,Energy,,,Saturday,Partial-Peak,Non-Summer,14:00,0:00,per kWh,2.4
+3-表燈(住商)電價,TOU,4,Energy,,,Saturday,Off-Peak,Summer,0:00,9:00,per kWh,2.23
+3-表燈(住商)電價,TOU,4,Energy,,,Saturday,Off-Peak,Non-Summer,0:00,6:00,per kWh,2.12
+3-表燈(住商)電價,TOU,4,Energy,,,Saturday,Off-Peak,Non-Summer,11:00,14:00,per kWh,2.12
+3-表燈(住商)電價,TOU,4,Energy,,,Sunday & Off-Peak Day,Off-Peak,Summer,0:00,0:00,per kWh,2.23
+3-表燈(住商)電價,TOU,4,Energy,,,Sunday & Off-Peak Day,Off-Peak,Non-Summer,0:00,0:00,per kWh,2.12
+4-低壓電力電價,Non-TOU,Commercial,Demand,Installed,Based on the Contracted Installed Capacity,,,All Year,,,per kW,137.5
+4-低壓電力電價,Non-TOU,Commercial,Demand,Maximum,Regular Contracted Demand,,,Summer,,,per kW,236.2
+4-低壓電力電價,Non-TOU,Commercial,Demand,Maximum,Regular Contracted Demand,,,Non-Summer,,,per kW,173.2
+4-低壓電力電價,Non-TOU,Commercial,Demand,Maximum,Non-Summer Contracted Demand ,,,Non-Summer,,,per kW,173.2
+4-低壓電力電價,Non-TOU,Commercial,Energy,,,,,Summer,0,0,per kWh,4.08
+4-低壓電力電價,Non-TOU,Commercial,Energy,,,,,Non-Summer,0,0,per kWh,3.87
+4-低壓電力電價,TOU,1,Demand,Installed,Customer charge,,,All Year,,,per customer,105
+4-低壓電力電價,TOU,1,Demand,Installed,Based on the Contracted Installed Capacity,,,All Year,,,per kW,137.5
+4-低壓電力電價,TOU,1,Demand,Maximum,Customer charge,,,All Year,,,per meter,262.5
+4-低壓電力電價,TOU,1,Demand,Maximum,Regular Contracted Demand,,,Summer,,,per kW,236.2
+4-低壓電力電價,TOU,1,Demand,Maximum,Regular Contracted Demand,,,Non-Summer,,,per kW,173.2
+4-低壓電力電價,TOU,1,Demand,Maximum,Non-Summer Contracted Demand ,,,Non-Summer,,,per kW,173.2
+4-低壓電力電價,TOU,1,Demand,Maximum,Saturday Partial-Peak Contracted,,,Summer,,,per kW,47.2
+4-低壓電力電價,TOU,1,Demand,Maximum,Saturday Partial-Peak Contracted,,,Non-Summer,,,per kW,34.6
+4-低壓電力電價,TOU,1,Demand,Maximum,Off-Peak Period Contracted Demand,,,Summer,,,per kW,47.2
+4-低壓電力電價,TOU,1,Demand,Maximum,Off-Peak Period Contracted Demand,,,Non-Summer,,,per kW,34.6
+4-低壓電力電價,TOU,1,Energy,,,Weekday,Peak,Summer,9:00,0:00,per kWh,5.54
+4-低壓電力電價,TOU,1,Energy,,,Weekday,Peak,Non-Summer,6:00,11:00,per kWh,5.39
+4-低壓電力電價,TOU,1,Energy,,,Weekday,Peak,Non-Summer,14:00,0:00,per kWh,5.39
+4-低壓電力電價,TOU,1,Energy,,,Weekday,Off-Peak,Summer,0:00,9:00,per kWh,2.27
+4-低壓電力電價,TOU,1,Energy,,,Weekday,Off-Peak,Non-Summer,0:00,6:00,per kWh,2.15
+4-低壓電力電價,TOU,1,Energy,,,Weekday,Off-Peak,Non-Summer,11:00,14:00,per kWh,2.15
+4-低壓電力電價,TOU,1,Energy,,,Saturday,Partial-Peak,Summer,9:00,0:00,per kWh,2.76
+4-低壓電力電價,TOU,1,Energy,,,Saturday,Partial-Peak,Non-Summer,6:00,11:00,per kWh,2.65
+4-低壓電力電價,TOU,1,Energy,,,Saturday,Partial-Peak,Non-Summer,14:00,0:00,per kWh,2.65
+4-低壓電力電價,TOU,1,Energy,,,Saturday,Off-Peak,Summer,0:00,9:00,per kWh,2.27
+4-低壓電力電價,TOU,1,Energy,,,Saturday,Off-Peak,Non-Summer,0:00,6:00,per kWh,2.15
+4-低壓電力電價,TOU,1,Energy,,,Saturday,Off-Peak,Non-Summer,11:00,14:00,per kWh,2.15
+4-低壓電力電價,TOU,1,Energy,,,Sunday & Off-Peak Day,Off-Peak,All Year,0:00,0:00,per kWh,2.27
+4-低壓電力電價,TOU,1,Energy,,,Sunday & Off-Peak Day,Off-Peak,All Year,0:00,0:00,per kWh,2.15
+4-低壓電力電價,TOU,2,Demand,Maximum,Customer charge,,,All Year,,,per customer,262.5
+4-低壓電力電價,TOU,2,Demand,Maximum,Regular Contracted Demand,,,Summer,,,per kW,236.2
+4-低壓電力電價,TOU,2,Demand,Maximum,Regular Contracted Demand,,,Non-Summer,,,per kW,173.2
+4-低壓電力電價,TOU,2,Demand,Maximum,Partial-Peak Contracted Demand,,,Summer,,,per kW,173.2
+4-低壓電力電價,TOU,2,Demand,Maximum,Partial-Peak Contracted Demand,,,Non-Summer,,,per kW,173.2
+4-低壓電力電價,TOU,2,Demand,Maximum,Saturday Partial-Peak Contracted Demand,,,Summer,,,per kW,47.2
+4-低壓電力電價,TOU,2,Demand,Maximum,Saturday Partial-Peak Contracted Demand,,,Non-Summer,,,per kW,34.6
+4-低壓電力電價,TOU,2,Demand,Maximum,Off-Peak Period Contracted Demand,,,Summer,,,per kW,47.2
+4-低壓電力電價,TOU,2,Demand,Maximum,Off-Peak Period Contracted Demand,,,Non-Summer,,,per kW,34.6
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Peak,Summer,16:00,22:00,per kWh,8.12
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Partial-Peak,Summer,9:00,16:00,per kWh,5.02
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Partial-Peak,Summer,22:00,0:00,per kWh,5.02
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Peak,Non-Summer,6:00,11:00,per kWh,4.86
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Peak,Non-Summer,14:00,0:00,per kWh,4.86
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Off-Peak,Summer,0:00,9:00,per kWh,2.23
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Off-Peak,Non-Summer,0:00,6:00,per kWh,2.12
+4-低壓電力電價,TOU,2,Energy,,,Weekday,Off-Peak,Non-Summer,11:00,14:00,per kWh,2.12
+4-低壓電力電價,TOU,2,Energy,,,Saturday,Partial-Peak,Summer,9:00,0:00,per kWh,2.5
+4-低壓電力電價,TOU,2,Energy,,,Saturday,Partial-Peak,Non-Summer,6:00,11:00,per kWh,2.4
+4-低壓電力電價,TOU,2,Energy,,,Saturday,Partial-Peak,Non-Summer,14:00,0:00,per kWh,2.4
+4-低壓電力電價,TOU,2,Energy,,,Saturday,Off-Peak,Summer,0:00,9:00,per kWh,2.23
+4-低壓電力電價,TOU,2,Energy,,,Saturday,Off-Peak,Non-Summer,0:00,6:00,per kWh,2.12
+4-低壓電力電價,TOU,2,Energy,,,Saturday,Off-Peak,Non-Summer,11:00,14:00,per kWh,2.12
+4-低壓電力電價,TOU,2,Energy,,,Sunday & Off-Peak Day,Off-Peak,Summer,0:00,0:00,per kWh,2.23
+4-低壓電力電價,TOU,2,Energy,,,Sunday & Off-Peak Day,Off-Peak,Non-Summer,0:00,0:00,per kWh,2.12
+4-低壓電力電價,TOU,3,Demand,Maximum,Customer charge,,,All Year,,,per customer,262.5
+4-低壓電力電價,TOU,3,Demand,Maximum,Regular Contracted Demand,,,Summer,,,per kW,47.2
+4-低壓電力電價,TOU,3,Demand,Maximum,Regular Contracted Demand,,,Non-Summer,,,per kW,34.6
+4-低壓電力電價,TOU,3,Energy,,,Weekday,Peak,Summer,16:00,22:00,per kWh,12.47
+4-低壓電力電價,TOU,3,Energy,,,Weekday,Peak,Non-Summer,15:00,21:00,per kWh,12.14
+4-低壓電力電價,TOU,3,Energy,,,Weekday,Off-Peak,Summer,0:00,16:00,per kWh,3.05
+4-低壓電力電價,TOU,3,Energy,,,Weekday,Off-Peak,Summer,22:00,0:00,per kWh,3.05
+4-低壓電力電價,TOU,3,Energy,,,Weekday,Off-Peak,Non-Summer,0:00,15:00,per kWh,2.9
+4-低壓電力電價,TOU,3,Energy,,,Weekday,Off-Peak,Non-Summer,21:00,0:00,per kWh,2.9
+4-低壓電力電價,TOU,3,Energy,,,Weekend & Off-Peak Day,Off-Peak,Summer,0:00,0:00,per kWh,3.05
+4-低壓電力電價,TOU,3,Energy,,,Weekend & Off-Peak Day,Off-Peak,Non-Summer,0:00,0:00,per kWh,2.9

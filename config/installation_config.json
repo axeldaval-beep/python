@@ -1,0 +1,6 @@
+{
+    "labor_cost_per_kwh_twd": 5000.0,
+    "infrastructure_base_twd": 5000.0,
+    "permits_and_inspection_twd": 0.0,
+    "contingency_pct": 0.1
+}
